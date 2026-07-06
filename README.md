@@ -1,14 +1,22 @@
-# Gumroad Marketing 🛒
+# 🛒 Gumroad Marketing
 
-Marketing assets, landing pages, automation, and directory submissions for Gumroad store.
+Marketing assets, landing pages, social drafts, and content for the Gumroad store.
+
+**Store:** https://reubenator4.gumroad.com
 
 ## Structure
 
-- `ai-directories/` — AI tool directory submissions (status, URLs, login info)
-- `social-media/` — Twitter/X threads, Reddit posts, Pinterest boards
-- `landing-pages/` — HTML/CSS landing pages for individual products (GitHub Pages)
-- `content-packs/` — Product descriptions, cover images, pricing notes
+```
+content/          # Blog posts and articles (Medium-ready)
+content-packs/    # Product descriptions, pricing, listing copy
+social-media/     # Twitter threads, Reddit posts, social drafts
+landing-pages/    # GitHub Pages landing pages for individual products
+```
 
 ## Products
 
-9 Etsy-related prompt packs and templates on Gumroad.
+| Product | Link | Price |
+|---------|------|-------|
+| 60 Etsy Listing Prompts | [Buy on Gumroad](https://reubenator4.gumroad.com/l/EtsyListingPrompts) | £3 |
+
+More products coming soon.
