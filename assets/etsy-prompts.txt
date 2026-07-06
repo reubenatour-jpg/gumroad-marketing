@@ -1,0 +1,224 @@
+=== ETSY SELLER PROMPTS — PLAIN TEXT FILE ===
+Copy any prompt below into ChatGPT, Claude, or your AI tool of choice.
+Replace [PLACEHOLDER] text with your actual product details.
+
+=========================================================
+CATEGORY 1: PRODUCT DESCRIPTIONS (15 Prompts)
+=========================================================
+
+=== Prompt 1.1 — Full Description Builder ===
+Write an Etsy product description for [PRODUCT NAME]. Target audience: [TARGET CUSTOMER]. Key features: [FEATURE 1], [FEATURE 2], [FEATURE 3]. Dimensions: [SIZE]. Materials: [MATERIALS].
+
+Structure the description as:
+1. Hook (1-2 sentences that grab attention)
+2. Problem it solves or desire it fulfills
+3. Features + benefits (bullet points)
+4. What makes it unique
+5. Call to action (what to do after reading)
+
+Tone: Warm, conversational, slightly enthusiastic. Length: 200-300 words.
+
+=== Prompt 1.2 — SEO-First Description ===
+Create an Etsy product description for [PRODUCT NAME] that is optimized for Etsy search. Include the following keywords naturally: [KEYWORD 1], [KEYWORD 2], [KEYWORD 3], [KEYWORD 4].
+
+Structure:
+- Opening sentence containing primary keyword
+- 3-4 bullet points with secondary keywords woven in
+- Closing paragraph with subtle call to action
+- Total: 150-200 words
+
+Important: Keywords must flow naturally. Do not stuff.
+
+=== Prompt 1.3 — Short & Punchy (Mobile-Optimized) ===
+Write a short Etsy product description for [PRODUCT NAME]. Max 100 words. First 2 sentences must hook immediately. One benefit bullet list (3 items max). One sentence call to action. No fluff, no filler.
+
+=== Prompt 1.4 — Description for Gifts ===
+Write an Etsy product description for [PRODUCT NAME] framed as a gift idea. Who is the gift FOR: [RECIPIENT TYPE]. What occasion: [OCCASION]. Focus on: the reaction the recipient will have, how it shows the buyer cares, what makes it gift-ready (packaging, personalization). Add a note about gift wrapping or personalized message options if applicable.
+
+=== Prompt 1.5 — Emotional Story Description ===
+Write a product description for [PRODUCT NAME] that tells a short story about how it's made, where inspiration came from, or the feeling it creates. Background: [YOUR STORY]. Keep it 200 words. End with an invitation to "be part of the story."
+
+=== Prompt 1.6 — Problem/Solution Description ===
+Write a product description for [PRODUCT NAME] using problem/solution framework. Problem: [PAIN POINT]. How this solves it: [SOLUTION]. Structure: Name the problem, introduce product as solution, list 3 reasons it works, risk reversal, call to action.
+
+=== Prompt 1.7 — Luxury/Premium Description ===
+Write a product description for [PRODUCT NAME] positioned as premium. Price: [$PRICE]. Tone: Sophisticated, minimal, confident. Focus on quality, exclusivity, how it elevates daily life, the care in each piece. Under 180 words.
+
+=== Prompt 1.8 — Practical/Utilitarian Description ===
+Write a product description for [PRODUCT NAME] focusing on utility. Include: exact specifications, compatibility, usage steps, care instructions, warranty. Tone: Direct, factual, helpful.
+
+=== Prompt 1.9 — Description for Repeat Buyers ===
+Write a product description for [PRODUCT NAME] assuming the buyer has purchased from your shop before. Tone: Like a friend showing something new. Reference your best-selling [RELATED PRODUCT]. Explain why this is different: [USP]. 100-150 words.
+
+=== Prompt 1.10 — For Products with Variations ===
+Write an Etsy product description for [PRODUCT NAME] explaining variations: [LIST VARIATIONS]. Help the buyer choose by describing who each variation is for, highlighting the most popular option, and including a quick comparison guide.
+
+=== Prompt 1.11 — Bundle/Set Description ===
+Write a product description for this bundle: [BUNDLE CONTENTS]. Value: Saves [AMOUNT] vs individual. List what's included, why they're better together, who this is for, individual values vs bundle price.
+
+=== Prompt 1.12 — Eco-Friendly/Sustainable Angle ===
+Write a product description highlighting eco-friendly qualities: [ECO FEATURES]. Tone: Passionate but not preachy. Include certifications, end-of-life info, and one actionable eco tip.
+
+=== Prompt 1.13 — Limited Edition/Scarcity Description ===
+Write a product description emphasizing limited availability. Limited run of [NUMBER], available until [DATE] or sold out. Make it feel special, not manufactured. Focus on what makes this unique, why it was made, what they'll miss. Clear "while supplies last" CTA.
+
+=== Prompt 1.14 — Custom/Personalized Description ===
+Write a product description for [PRODUCT NAME] that can be customized. Options: [WHAT CAN BE CUSTOMIZED]. Explain the joy of something made just for them, how personalization works, what they need to provide, turnaround time. Include an example of the personalized result.
+
+=== Prompt 1.15 — Comparison Description ===
+Write a product description comparing [PRODUCT NAME] to [ALTERNATIVE]. Focus on what this does better, quality differences, value for money. Confident tone, let facts speak.
+
+=========================================================
+CATEGORY 2: SEO TITLES & TAGS (10 Prompts)
+=========================================================
+
+=== Prompt 2.1 — SEO-Optimized Listing Title ===
+Generate 5 SEO-optimized Etsy listing titles for [PRODUCT NAME]. Front-load with keywords. Include: what it is + key feature + who it's for + occasion. Max 140 characters. Explain which keywords each title targets.
+
+=== Prompt 2.2 — 13 Tags from Scratch ===
+Generate 13 Etsy listing tags for [PRODUCT NAME]. Each max 20 characters. Mix broad and specific terms. Include: product type, style, material, color, occasion, recipient, benefit. Rank by search volume potential.
+
+=== Prompt 2.3 — Tag Optimization ===
+Given these current Etsy tags: [LIST TAGS]. Evaluate each. Check for invalid tags (over 20 chars), single words better as phrases, overly broad terms, missed opportunities. Provide 13 optimized replacements with reasoning.
+
+=== Prompt 2.4 — Seasonal Title Refresh ===
+Generate 3 seasonal titles for [PRODUCT NAME] for each occasion: [OCCASION 1], [OCCASION 2], [OCCASION 3]. Include the occasion keyword naturally. Max 140 characters.
+
+=== Prompt 2.5 — Long-Tail Keyword Research ===
+Generate 20 long-tail keyword phrases (3-5 words) for [PRODUCT NAME] that Etsy buyers search. Include "how to," "best," "for [occasion/person]," "under [price]," and descriptive+intent combos.
+
+=== Prompt 2.6 — Category Analysis ===
+For [PRODUCT NAME], suggest best Etsy category and subcategory. Analyze where competitors appear, whether specific subcategory reduces competition. Explain reasoning.
+
+=== Prompt 2.7 — Title for Multiple Variations ===
+Generate Etsy title for [PRODUCT NAME] with variations: [VARIATIONS]. Strategy: Cover ALL variations without being generic. Include product type, range, and top use case. Provide 4 options with different angles.
+
+=== Prompt 2.8 — Shop-Level SEO Strategy ===
+Create a shop-wide SEO action plan for a shop with [NUMBER] listings in [CATEGORIES] at [$PRICE RANGE]. Cover: title optimization, tag strategy to avoid cannibalization, category organization, attribute completeness. Rank by impact.
+
+=== Prompt 2.9 — Attribute Completion Guide ===
+For [PRODUCT NAME], list all Etsy attributes to fill: primary color, secondary color, material, occasion, holiday, style, subject. Suggest specific values. Explain why each matters for search.
+
+=== Prompt 2.10 — Competitor Tag Analysis ===
+Analyze this competitor product: [COMPETITOR DESCRIPTION]. Strengths: [THEIRS]. Weaknesses: [THEIRS]. Generate 13 tags for YOUR product that cover what they miss, use different angles, target gaps.
+
+=========================================================
+CATEGORY 3: CUSTOMER MESSAGES (10 Prompts)
+=========================================================
+
+=== Prompt 3.1 — Order Confirmation ===
+Write a warm order confirmation for [PRODUCT NAME]. Order: [NUMBER]. Thankful and excited. Confirm purchase, expected delivery, offer help. 80-120 words. Subtle social media follow invitation.
+
+=== Prompt 3.2 — Shipping Update ===
+Write shipping update for [PRODUCT]. Carrier: [CARRIER]. Tracking: [NUMBER]. Informative and reassuring. Include tracking and estimated delivery. Mention careful packing. 60-80 words.
+
+=== Prompt 3.3 — Review Request (Positive) ===
+Write a review request for [PRODUCT], [DAYS] after delivery. Grateful, not pushy. Suggest what to mention (quality, packaging, speed). Include review link. Warm closing.
+
+=== Prompt 3.4 — Review Request (After Issue Resolved) ===
+Write a review request after resolving issue: [ISSUE] fixed by [SOLUTION]. Appreciate their patience. Acknowledge briefly, thank them, gently ask for honest review. Focus on positive resolution.
+
+=== Prompt 3.5 — FAQ Response ===
+Answer this Etsy question: [QUESTION] about [PRODUCT]. Answer directly, be warm, include next step or link. 50-100 words.
+
+=== Prompt 3.6 — Custom Order Inquiry ===
+Respond to customer wanting custom [PRODUCT]. Their request: [CUSTOM]. Show enthusiasm, explain what's possible, quote price, set timeline, provide next step. Be specific to avoid back-and-forth.
+
+=== Prompt 3.7 — Restock Inquiry ===
+Respond to customer asking when [PRODUCT] returns. If restock date known, state clearly. If uncertain, be honest and offer notification. Suggest alternative product. Disappointed WITH them, not defensive.
+
+=== Prompt 3.8 — International Shipping ===
+Explain international shipping to buyer in [COUNTRY]. Method: [METHOD]. Time: [TIME]. Customs: [INFO]. Informative, not scary. Set clear expectations. Offer more questions.
+
+=== Prompt 3.9 — Cancellation/Refund ===
+Respond to cancellation/refund for reason: [REASON]. Policy: [YOUR POLICY]. Professional, understanding. Acknowledge situation, confirm refund, explain next steps, invite them back. Keep gracious.
+
+=== Prompt 3.10 — Wholesale/Bulk Inquiry ===
+Respond to bulk inquiry for [PRODUCT], qty [QUANTITY], business [TYPE]. Include: enthusiasm, MOQ, wholesale pricing, turnaround, customization options for bulk, next step.
+
+=========================================================
+CATEGORY 4: SHOP BRANDING & STORY (10 Prompts)
+=========================================================
+
+=== Prompt 4.1 — About Section ===
+Write an About section for an Etsy shop selling [PRODUCT TYPE]. Shop: [NAME]. Background: [YOUR STORY]. USP: [UNIQUE]. Structure: Who you are, how you started, what you make and why, your process, your promise. Warm, personal. 250-400 words.
+
+=== Prompt 4.2 — Shop Announcement ===
+Write a 40-60 word shop announcement for [PRODUCT TYPE] shop. What's new: [UPDATES]. Season: [CURRENT]. Exciting but concise. Include call to action.
+
+=== Prompt 4.3 — Shipping Policy ===
+Write clear shipping policy. Processing: [TIME]. Carriers: [CARRIERS]. Costs: [COSTS]. International: [DETAILS]. Customs: [WHO PAYS]. Clear, reassuring. Include time expectations, delay process, lost package process.
+
+=== Prompt 4.4 — Return Policy ===
+Write return policy. Window: [DAYS]. Return shipping: [WHO PAYS]. Condition: [REQUIREMENTS]. Exclusions: [CUSTOM/DIGITAL/SALE]. Fair and clear. Open with "I want you to love your purchase."
+
+=== Prompt 4.5 — Product Care Guide ===
+Write care guide for [PRODUCT TYPE]. Include: cleaning, storage, what to avoid, extending life, when to contact you. Bullet points.
+
+=== Prompt 4.6 — Brand Voice Guide ===
+Define brand voice for [SHOP NAME]. Personality: [3 WORDS]. Audience: [TARGET]. Values: [VALUES]. Cover: words to use/avoid, sentence style, emoji usage, how to handle complaints, how to celebrate wins.
+
+=== Prompt 4.7 — Social Media Bio ===
+Write bios for [PLATFORM] for shop selling [PRODUCT TYPE]. Vibe: [3 WORDS]. Provide: short (150 chars), medium (300 chars), emoji version, no-emoji professional version.
+
+=== Prompt 4.8 — Thank You Card ===
+Write thank you card for [PRODUCT] from [SHOP NAME]. Genuinely grateful, seems handwritten. Thank them, mention their product specifically, encourage reaching out, invite review/follow. 50-80 words.
+
+=== Prompt 4.9 — Holiday/Greeting Message ===
+Write seasonal greeting for [HOLIDAY/SEASON] for [SHOP NAME]. Festive, on-brand. Provide short (1 sentence) and medium (3-4 sentences) versions.
+
+=== Prompt 4.10 — Why Handmade Story ===
+Write why handmade matters for [SHOP NAME] and [PRODUCT TYPE]. Your perspective: what making by hand means. Why it's better than mass-produced. Passionate, not preachy. Make the reader feel good about choosing handmade.
+
+=========================================================
+CATEGORY 5: MARKETING & SOCIAL (10 Prompts)
+=========================================================
+
+=== Prompt 5.1 — Instagram Launch Post ===
+Write Instagram caption launching [PRODUCT NAME]. Features: [KEY]. Availability: [WHEN]. Hook in first line. 3-5 hashtags. Clear CTA. Emojis matching brand. Mobile-friendly formatting.
+
+=== Prompt 5.2 — TikTok BTS Script ===
+Write 30-60 second TikTok script making [PRODUCT NAME]. Real, raw. Opening: finished product + hook. Process: quick cuts with captions. Closing: product + "link in bio." Include caption text.
+
+=== Prompt 5.3 — Pinterest Pin Description ===
+Write Pinterest pin description for [PRODUCT NAME]. Image idea: [DESCRIPTION]. Pin title (100 chars): keyword-rich. Description (200-500 chars): what it is, why they need it, where to get it. Keywords, CTA, 3-5 hashtags.
+
+=== Prompt 5.4 — Email Newsletter ===
+Write email announcing [PRODUCT NAME] to your list. Audience: past customers/subscribers. Offer: [DISCOUNT/early access]. Structure: subject line, preheader, why I made this, what it is, CTA button, warm sign-off. Like writing to a friend.
+
+=== Prompt 5.5 — Etsy Ads Copy ===
+Write 5 headline + description combos for Etsy Ads for [PRODUCT NAME]. Headline: 45 chars max. Description: 100 chars. Cover different angles: price, quality, gift, uniqueness, urgency.
+
+=== Prompt 5.6 — Testimonial Request ===
+Ask a happy customer to use their review as a testimonial. Their review: [REVIEW]. Be grateful, make it OK to refuse. Explain where it'll be used. Offer small thank you (discount, freebie).
+
+=== Prompt 5.7 — Bundle Promotion ===
+Write social post promoting [BUNDLE NAME]: [ITEMS]. Bundle [$PRICE] vs individual [$VALUE]. Show savings AND why they work better together. Include purchase path.
+
+=== Prompt 5.8 — Flash Sale Announcement ===
+Write flash sale announcement. [DISCOUNT] off. Duration: [TIME]. Products: [ITEMS]. Exciting, not desperate. FOMO from deal, not pressure. Include countdown and shop instructions.
+
+=== Prompt 5.9 — Educational Content ===
+Write educational post about [TOPIC]. Hook: common mistake or question. Body: 3-5 tips. Close: subtle product plug. Goal: build authority and trust.
+
+=== Prompt 5.10 — Competitor Differentiation ===
+Write post showing why [PRODUCT] is better than mass alternatives. Advantage: [USP]. Confident, not negative. Don't name competitors. "What to look for when buying [PRODUCT TYPE]" format.
+
+=========================================================
+CATEGORY 6: PHOTOGRAPHY & STYLING (5 Prompts)
+=========================================================
+
+=== Prompt 6.1 — Product Photo Shot List ===
+Create 10 photo shot ideas for [PRODUCT NAME] for Etsy: 1) Main white background, 2) Scale, 3) Detail, 4) In-use, 5) Lifestyle, 6) Packaging, 7) Variation comparison, 8) Gift styled, 9) Group/collection, 10) Behind-the-scenes. For each: frame description, lighting suggestion, staging props, why it helps sell.
+
+=== Prompt 6.2 — Lighting Setup Guide ===
+Recommend lighting for photographing [PRODUCT TYPE] on [BUDGET]. Product finish: [MATTE/GLOSSY]. Cover: placement diagram, best natural light timing, common mistakes, editing tips.
+
+=== Prompt 6.3 — Lifestyle Image Concepts ===
+Describe 5 lifestyle photo concepts for [PRODUCT NAME]. Target: [AUDIENCE]. Each: setting, props, mood/feeling, color palette. Make buyer imagine owning this in their life.
+
+=== Prompt 6.4 — Mobile Photography Tips ===
+Write guide for Etsy photos on smartphone for [PRODUCT TYPE]. Cover: best settings, free editing apps, DIY light box under $5, white background tricks, common mistakes. Encouraging tone.
+
+=== Prompt 6.5 — Video Content Ideas ===
+Generate 5 short video ideas (30-60 sec) for [PRODUCT NAME] on [PLATFORM]. Each: hook, what happens, why engaging, audio style, text overlays, CTA. Cover: making process, unboxing, before/after, comparison, styling tips.
