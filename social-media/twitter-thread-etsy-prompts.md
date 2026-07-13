@@ -1,89 +1,57 @@
-# Twitter/X Thread — Etsy Listing Prompts Pack
-# Created: 2026-07-05 (AM cron)
-# Status: Ready to post
+# Twitter/X Thread — Etsy Product Prompts Launch
+
+*Post when landing page is live at: https://reubenatour-jpg.github.io/gumroad-marketing/*
 
 ---
 
-## Tweet 1 (hook)
+🧵 **Thread: How I wrote 50 Etsy listings in a weekend (without losing my mind)**
 
-I spent way too long figuring out how to make ChatGPT write Etsy listings that actually sell.
+1/ Let's be real — writing Etsy listings is the worst part of selling on Etsy.
+You sit there. You stare at a blank screen. You type "vintage-inspired" 47 times.
+There's a better way.
 
-Turns out, 99% of people are prompting it wrong. Here's what I learned (and the prompt pack I built from it) 🧵
+2/ I found that AI prompts + a structured format = 10x faster listings.
+No more writer's block. No more copy-pasting the same intro.
+Just: fill in the blanks, get a complete, SEO-optimized listing.
 
----
+3/ I created a pack of 50+ done-for-you prompts that cover:
+→ Product descriptions
+→ SEO titles & tags  
+→ About section
+→ Shipping & policies
+→ Social media captions
+→ The "tell your story" section everyone skips
 
-## Tweet 2 (problem)
+4/ The prompts work across ChatGPT, Claude, Gemini — whatever you use.
+Each one includes specific fill-in fields so the AI knows exactly what you sell.
+Results are consistent, on-brand, and actually convert.
 
-The default ChatGPT output for Etsy listings is painfully generic:
+5/ I use these myself for my Etsy store. They turned listing creation from a 2-hour slog into a 15-minute task.
 
-"Welcome to my shop! This handmade item is perfect for any occasion..."
+6/ If you're tired of staring at blank screens, grab the full prompt pack here:
+🔗 [LINK TO PRODUCT PAGE]
 
-That copy doesn't rank. It doesn't convert. It just takes up space.
-
----
-
-## Tweet 3 (insight 1)
-
-Here's the fix: stop asking ChatGPT to "write a description."
-
-Instead, feed it:
-• Your product specs
-• Your target customer
-• The tone you want
-• Etsy's ranking factors
-
-THEN ask it to write. Night and day difference.
-
----
-
-## Tweet 4 (insight 2)
-
-Titles matter more than descriptions on Etsy.
-
-The first 40 characters are weighted most heavily. Your AI-generated titles need front-loaded keywords — not "Welcome to..." fluff.
-
-Most AI title prompts get this completely wrong.
+7/ Bonus: use code REDDIT30 for 30% off (affiliate-coded link for tracking)
 
 ---
 
-## Tweet 5 (insight 3)
+## Alt version — Short & punchy
 
-Alt text is free SEO real estate and almost nobody uses it.
+1/ "How do you write Etsy listings fast?"
+You don't. You use prompts.
 
-ChatGPT can write optimised alt text for all your listing images in seconds — if you give it the right template.
+2/ I spent months refining 50+ listing prompts so you don't have to.
+SEO titles. Descriptions. Tags. About pages. All of it.
 
-I included 5 alt text templates in the pack for exactly this reason.
+3/ Every prompt is pre-loaded with fill-in fields → plug in your product → get a perfect listing in seconds.
 
----
-
-## Tweet 6 (the offer)
-
-I packaged everything I learned into a prompt pack:
-
-✅ 50+ copy-paste templates
-✅ Titles, descriptions, tags, alt text, announcements
-✅ Built around Etsy's actual ranking algorithm
-✅ Works with free ChatGPT
-
-£7.99 — cheaper than one hour of struggling with descriptions.
-
-👉 https://reubenator4.gumroad.com/l/EtsyListingPrompts
+4/ Grab the pack here: [LINK]
+30% off with code: SELLFAST30
 
 ---
 
-## Tweet 7 (CTA)
-
-If you sell on Etsy and you're not using AI properly, you're leaving money on the table.
-
-Grab the pack, plug in your products, and watch your listings improve.
-
-RT if you know someone who needs this ♻️
-
----
-
-## Posting Notes
-- Post as a thread (reply to each tweet in sequence)
-- Add 1-2 relevant images (product mockup + before/after listing example)
-- Best engagement: Tue-Thu, but any day works for Twitter
-- Pin to profile after posting
-- Engage with replies for first 2 hours
+## Where to post
+- r/EtsySellers (product recommendation threads)
+- r/Etsy (weekly self-promo)
+- r/smallbusiness (when relevant to product launches)
+- Twitter/X (Etsy seller community, #EtsySeller #SmallBiz)
