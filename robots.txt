@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reubenatour-jpg.github.io/gumroad-marketing/sitemap.xml
